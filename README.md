@@ -19,11 +19,11 @@ You can install them using pip:
 
 Run the following command in your terminal:
 
-# python3 app.py (on Mac)
+### python3 app.py (on Mac)
 
 or probably
 
-# python app.py (on Windows)
+### python app.py (on Windows)
 
 This will start the Flask server and make the chatbot available.
 
